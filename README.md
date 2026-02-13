@@ -37,20 +37,6 @@ Random Module
 
 User Input Handling
 
-▶️ How to Run
-
-1️⃣ Clone Repository
-
-git clone https://github.com/MeerabFatima-dev/HangmanGame-CodeAlpha-Project1.git
-
-2️⃣ Open Project Folder
-
-cd hangman-game
-
-3️⃣ Run Game
-
-python hangman.py
-
 🎮 How to Play
 
 The game selects a random word.

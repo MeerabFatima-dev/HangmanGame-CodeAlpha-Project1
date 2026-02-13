@@ -41,7 +41,7 @@ User Input Handling
 
 1️⃣ Clone Repository
 
-git clone https://github.com/MeerabFatima-dev/hangman-game.git
+git clone https://github.com/MeerabFatima-dev/HangmanGame-CodeAlpha-Project1.git
 
 2️⃣ Open Project Folder
 

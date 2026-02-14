@@ -7,7 +7,7 @@ This Hangman Game is my first internship project, assigned during my internship 
 Hangman is a classic word guessing game where the player tries to discover a hidden word by guessing one letter at a time within limited attempts.
 This project helped me gain hands-on experience with Python programming, logical thinking, and version control using Git & GitHub.
 
-✨ Features
+✨ Features:
 
 🎯 Random word selection from predefined list
 
@@ -21,7 +21,7 @@ This project helped me gain hands-on experience with Python programming, logical
 
 🧠 Beginner-friendly logic
 
-🧠 Programming Concepts Used
+-> Programming Concepts Used:
 
 Variables & Data Types
 
@@ -37,7 +37,7 @@ Random Module
 
 User Input Handling
 
-🎮 How to Play
+-> 🎮 How to Play:
 
 The game selects a random word.
 
@@ -49,7 +49,7 @@ Wrong guesses reduce your lives.
 
 Guess the word before lives run out to win!
 
-💼 Internship Credit
+💼 Internship Credit:
 
 This project was developed as part of my internship at CodeAlpha, where I am gaining practical experience in python development, problem solving, and real-world project workflows.
 

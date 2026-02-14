@@ -1,5 +1,5 @@
 # CodeAlpha_HangmanGame
-A simple and interactive console-based Hangman Game built using Python as part of my Python Development Internship at CodeAlpha.
+A simple and interactive console-based Hangman Game built using Python as part of my Python Programming Internship at CodeAlpha.
 
 📌 About The Project
 
@@ -58,7 +58,7 @@ This project was developed as part of my internship at CodeAlpha, where I am gai
 Meerab Fatima
 BS Computer Science Student | Python Learner
 
-Python Development Intern — CodeAlpha
+Python Programming Intern — CodeAlpha
 
 ⭐ Support
 
